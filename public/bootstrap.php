@@ -10,7 +10,7 @@ $composer_autoload = APP_ROOT.DS."vendor".DS."autoload.php";
 
 
 if (!file_exists($composer_autoload)){
-	die ("Instala o composer!!");
+	die ("Please, install the composer . http://getcomposer.org/");
 }
 
 require $composer_autoload;
