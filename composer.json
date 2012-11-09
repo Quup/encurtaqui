@@ -9,5 +9,10 @@
             "name": "André Simões",
             "email": "afsdede92@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "" : "src/"
+        }
+    }
 }
