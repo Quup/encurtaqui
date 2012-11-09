@@ -1,0 +1,13 @@
+{
+    "name": "quup/encurtaqui",
+    "require": {
+        "phpunit/phpunit": "3.7.1"
+    },
+    "minimum-stability": "alpha",
+    "authors": [
+        {
+            "name": "André Simões",
+            "email": "afsdede92@gmail.com"
+        }
+    ]
+}
